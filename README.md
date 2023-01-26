@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://image.flaticon.com/icons/png/512/1253/1253661.png" alt="imagem maneira relacionada ao projeto"height=400px >
+  <img src="https://miro.medium.com/max/720/1*3xEPKteLmsRwSUK6bfbpFQ.webp" height=400px >
 </p>
 
 ##  Churn Prediction
